@@ -1,0 +1,5 @@
+mRNA:
+GGC.CGA.UUA.AUG.CUU.AAA.UGC.GGC.CUA.AAU.UAU
+
+Cadeia de aminoácidos:
+L K C G L N T 
